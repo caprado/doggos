@@ -27,12 +27,12 @@ Endpoints to mock:
 ### Mocking endpoint
 `
   prism mock -p 3000 API.yaml
-
 `
+
 or
+
 `
   json-server db.json
-
 `
 
 ### Install

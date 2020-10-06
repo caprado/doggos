@@ -1,0 +1,22 @@
+.menu-wrapper {
+    margin: 0 auto;
+    width: 100%;
+    background-color: #454545;
+}
+
+.menu-list {
+    margin: 0px auto;
+    padding: 15px;
+    width: 255px;
+}
+
+.menu-item {
+    display: inline-block;
+    padding: 7px 15px;
+    text-align: center;
+}
+
+.menu-item a {
+    text-decoration: none;
+    color: #f3f3f3;
+}

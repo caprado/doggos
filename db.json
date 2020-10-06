@@ -1,0 +1,97 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "username": "jordan",
+      "password": "password123"
+    },
+    {
+      "userName": "prado",
+      "userPassword": "password",
+      "id": 2
+    }
+  ],
+  "doggo": [
+    {
+      "id": 4,
+      "name": "Lulu",
+      "age": "4",
+      "breed": "Akbash",
+      "weight": "1",
+      "height": "3",
+      "color": "Brown"
+    },
+    {
+      "id": 5,
+      "name": "Gizmo",
+      "age": "9",
+      "breed": "Australian Terrier",
+      "weight": "9",
+      "height": "3",
+      "color": "Chocolate Brown"
+    },
+    {
+      "id": 6,
+      "name": "Lana",
+      "age": "3",
+      "breed": "Australian Shepherd Pit Bull Mix",
+      "weight": "14",
+      "height": "1",
+      "color": "Golden Brown"
+    },
+    {
+      "id": 7,
+      "name": "Smokey",
+      "age": "3",
+      "breed": "Barbet",
+      "weight": "6",
+      "height": "2",
+      "color": "Dirty Brown"
+    },
+    {
+      "id": 8,
+      "name": "Chi Chi",
+      "age": "14",
+      "breed": "Bloodhound",
+      "weight": "23",
+      "height": "4",
+      "color": "Gray"
+    },
+    {
+      "id": 9,
+      "name": "Apollo",
+      "age": "11",
+      "breed": "Bohemian Shepherd",
+      "weight": "12",
+      "height": "5",
+      "color": "White"
+    },
+    {
+      "id": 10,
+      "name": "Baxter",
+      "age": "8",
+      "breed": "Bordoodle",
+      "weight": "9",
+      "height": "3",
+      "color": "White"
+    },
+    {
+      "id": 11,
+      "name": "Midnight",
+      "age": "6",
+      "breed": "Boxer",
+      "weight": "22",
+      "height": "4",
+      "color": "Black"
+    },
+    {
+      "id": 13,
+      "name": "Sparky",
+      "age": "12",
+      "breed": "Golden Retreiver",
+      "weight": "15",
+      "height": "2",
+      "color": "gray"
+    }
+  ]
+}
