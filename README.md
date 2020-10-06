@@ -57,4 +57,4 @@ or
  - login - Login screen
 
 /styles
-All the styles for each page and the components are located here.
+- All the styles for each page and the components are located here.
