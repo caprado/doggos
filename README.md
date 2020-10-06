@@ -41,7 +41,7 @@ or
  - npm run start
 
 ### Structure
-/components our reuseable components 
+/components
  - Heading - For showing logged in user heading "Hello, {first name}"
  - Nav - Our navigation component.
  - PrivateRoute - Our Hoc for privitizing routes showing only to logged in users.
