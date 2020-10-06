@@ -36,9 +36,11 @@ or
 `
 
 ### Install
- - npm install
- - json-server db.json
- - npm run start
+`
+npm install
+json-server db.json
+npm run start
+`
 
 ### Structure
 /components
