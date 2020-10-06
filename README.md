@@ -47,7 +47,7 @@ or
  - PrivateRoute - Our Hoc for privitizing routes showing only to logged in users.
 
 /context
- - auth - This file is for authentication to be used with jwt and check whether user privlages are valid.
+ - auth - This file is for authentication to be used with jwt and check whether user privileges are valid.
 
 /pages
  - create - Create new db entry for a dog.
